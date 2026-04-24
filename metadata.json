@@ -1,0 +1,6 @@
+{
+  "name": "Neon Rhythm Snake",
+  "description": "A high-octane synthwave music player integrated with a classic Snake game, featuring a dark neon aesthetic and rhythmic game loop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
